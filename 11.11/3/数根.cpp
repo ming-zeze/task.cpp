@@ -1,0 +1,33 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+//数根是这样定义的：对于一个正整数n，将它的各个数位上的数字相加得到一个新数，
+//如果这个数是一位数，我们就称之为n的数根，否则重复处理直到它成为一个一位数。
+//例如，n = 34, 3 + 4 = 7, 7是一位数，所以7是34的数根。
+//再如，n = 345, 3 + 4 + 5 = 12，1 + 2 = 3, 3是一位数，所以3是345的数根。
+//对于输入数字n, 编程计算它的数根并输出。
+#include<iostream>
+using namespace std;
+int shuGen(int n);
+int main()
+{
+	int n = 0;
+	cin >> n;
+	cout << shuGen(n);
+	return 0;
+}
+int shuGen(int n)
+{
+	while (n>=10)
+	{
+		int sum = 0;
+		int temp = n;
+		while(temp>0)
+		{
+			int g = temp % 10;
+			temp /= 10;
+			sum += g;
+		}
+		n = sum;
+	}
+	
+	return n;
+}
