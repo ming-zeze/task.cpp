@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\test.cpp\\11.1\\3plus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9434FA-EE23-436A-80AA-4E72076BA4A4}|3plus.vcxproj|D:\\VS\\test.cpp\\11.1\\3plus\\\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F9434FA-EE23-436A-80AA-4E72076BA4A4}|3plus.vcxproj|solutionrelative:\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp",
+              "DocumentMoniker": "D:\\VS\\test.cpp\\11.1\\3plus\\\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp",
+              "RelativeDocumentMoniker": "\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp",
+              "ToolTip": "D:\\VS\\test.cpp\\11.1\\3plus\\\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp",
+              "RelativeToolTip": "\u6700\u540E\u4E00\u6B21\u6570\u7684plus.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-01T07:08:17.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

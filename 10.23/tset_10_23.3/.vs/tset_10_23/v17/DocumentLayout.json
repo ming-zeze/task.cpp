@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\test.cpp\\tset_10_23.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02523121-C5AF-4961-ACB3-8DCD0462A264}|tset_10_23.vcxproj|D:\\VS\\test.cpp\\tset_10_23.3\\tset3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02523121-C5AF-4961-ACB3-8DCD0462A264}|tset_10_23.vcxproj|solutionrelative:tset3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tset3.cpp",
+              "DocumentMoniker": "D:\\VS\\test.cpp\\tset_10_23.3\\tset3.cpp",
+              "RelativeDocumentMoniker": "tset3.cpp",
+              "ToolTip": "D:\\VS\\test.cpp\\tset_10_23.3\\tset3.cpp",
+              "RelativeToolTip": "tset3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T05:15:43.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
