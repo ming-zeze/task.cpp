@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\test.cpp\\11.16\\3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1743E0-9C1F-434B-8628-A7315E66F1BF}|3.vcxproj|D:\\VS\\test.cpp\\11.16\\3\\\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B1743E0-9C1F-434B-8628-A7315E66F1BF}|3.vcxproj|solutionrelative:\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp",
+              "DocumentMoniker": "D:\\VS\\test.cpp\\11.16\\3\\\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp",
+              "RelativeDocumentMoniker": "\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp",
+              "ToolTip": "D:\\VS\\test.cpp\\11.16\\3\\\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp*",
+              "RelativeToolTip": "\u6E90\u5206\u6570\u6C42\u548Ccpp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T08:59:21.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
